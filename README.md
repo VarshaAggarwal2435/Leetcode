@@ -42,4 +42,20 @@
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1448-maximum-69-number) |
+## Array
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+## Hash Table
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
