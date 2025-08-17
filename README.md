@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1448-maximum-69-number) |
 ## Bit Manipulation
 |  |
@@ -58,4 +59,16 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
