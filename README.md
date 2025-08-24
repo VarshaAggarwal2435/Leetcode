@@ -50,6 +50,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -75,11 +76,13 @@
 | ------- |
 | [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Sliding Window
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Probability and Statistics
 |  |
 | ------- |
