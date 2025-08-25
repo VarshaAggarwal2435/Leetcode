@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Linked List
@@ -45,6 +46,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 | [1448-maximum-69-number](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1448-maximum-69-number) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Array
@@ -63,6 +65,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+| [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
@@ -122,4 +125,8 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
+## Two Pointers
+|  |
+| ------- |
+| [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 <!---LeetCode Topics End-->
