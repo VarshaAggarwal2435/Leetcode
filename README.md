@@ -53,6 +53,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -77,6 +79,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
