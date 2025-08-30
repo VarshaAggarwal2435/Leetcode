@@ -62,6 +62,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
