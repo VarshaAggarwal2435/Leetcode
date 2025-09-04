@@ -36,6 +36,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3830-find-closest-person](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
