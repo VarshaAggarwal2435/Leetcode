@@ -32,6 +32,7 @@
 | ------- |
 | [0342-power-of-four](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0342-power-of-four) |
 | [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -61,6 +62,7 @@
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
