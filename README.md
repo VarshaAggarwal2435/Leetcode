@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
+| [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Linked List
@@ -62,6 +63,7 @@
 | [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
+| [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -81,6 +83,7 @@
 | [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
+| [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Backtracking
 |  |
