@@ -36,6 +36,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1448-maximum-69-number) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -70,6 +71,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -129,6 +131,7 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
@@ -142,6 +145,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Simulation
 |  |
