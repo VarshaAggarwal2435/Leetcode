@@ -8,6 +8,7 @@
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -79,6 +80,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Backtracking
 |  |
 | ------- |
@@ -101,6 +104,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,4 +172,8 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
