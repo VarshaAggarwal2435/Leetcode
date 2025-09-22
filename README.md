@@ -77,6 +77,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -91,6 +92,7 @@
 | [0768-partition-labels](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0768-partition-labels) |
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3827-implement-router) |
 ## Backtracking
@@ -185,4 +187,8 @@
 |  |
 | ------- |
 | [3827-implement-router](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3827-implement-router) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
