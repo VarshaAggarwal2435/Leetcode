@@ -75,6 +75,7 @@
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3827-implement-router](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3827-implement-router) |
 ## Design
 |  |
@@ -191,4 +194,8 @@
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
