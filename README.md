@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0342-power-of-four) |
+| [0830-largest-triangle-area](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -66,6 +67,7 @@
 | [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0830-largest-triangle-area](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -198,4 +200,8 @@
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
