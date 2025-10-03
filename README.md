@@ -67,6 +67,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0830-largest-triangle-area](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -109,6 +110,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -180,6 +182,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Queue
 |  |
@@ -208,4 +211,8 @@
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0830-largest-triangle-area) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
