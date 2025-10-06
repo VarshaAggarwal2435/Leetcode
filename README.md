@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3827-implement-router](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
@@ -69,6 +70,7 @@
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0830-largest-triangle-area) |
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -112,6 +114,7 @@
 | [0037-sudoku-solver](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0037-sudoku-solver) |
 | [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0498-diagonal-traverse) |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -183,6 +186,7 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 ## Queue
 |  |
@@ -215,4 +219,13 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->
