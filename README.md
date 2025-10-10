@@ -87,6 +87,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -228,4 +229,8 @@
 |  |
 | ------- |
 | [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
