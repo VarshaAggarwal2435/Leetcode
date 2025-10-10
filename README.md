@@ -8,6 +8,7 @@
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
@@ -45,6 +46,7 @@
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3336-water-bottles-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
@@ -102,6 +104,7 @@
 | [1006-vowel-spellchecker](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3827-implement-router) |
 ## Backtracking
@@ -130,6 +133,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
@@ -208,6 +212,7 @@
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
