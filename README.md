@@ -91,6 +91,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
