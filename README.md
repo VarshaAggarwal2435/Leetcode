@@ -66,6 +66,7 @@
 | [1448-maximum-69-number](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -171,6 +173,7 @@
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Number Theory
 |  |
 | ------- |
