@@ -28,6 +28,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0794-swim-in-rising-water](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3827-implement-router](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3827-implement-router) |
 ## Binary Tree
 |  |
@@ -96,6 +97,7 @@
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3797-design-spreadsheet](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3797-design-spreadsheet) |
@@ -146,6 +148,7 @@
 | [0867-new-21-game](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -174,6 +177,7 @@
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -244,4 +248,5 @@
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/VarshaAggarwal2435/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
